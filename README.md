@@ -1,4 +1,4 @@
-# OSS Audit — [24BSA10342]
+# OSS Audit — 24BSA10342
 
 > **Open Source Software Audit** | VITyarthi | OSS NGMC Course
 
@@ -8,22 +8,22 @@
 
 | Field | Details |
 |---|---|
-| **Name** | [Sparsh Agarwal] |
-| **Roll Number** | [24BSA10342] |
-| **Slot** | [D11] |
-| **Date of Submission** | [31 03 2026] |
+| **Name** | Sparsh Agarwal |
+| **Roll Number** | 24BSA10342 |
+| **Slot** | D11 |
+| **Date of Submission** | 31 03 2026 |
 
 ---
 
 ## Chosen Software
 
-**[Python]** — [This repository contains a structured audit of the Linux Kernel and five functional shell scripts as part of the OSS NGMC course.]
+**[Python]** — This repository contains a structured audit of the Linux Kernel and five functional shell scripts as part of the OSS NGMC course.
 
 ---
 
 ## Repository Structure
 ```
-oss-audit-[24BSA10342]/
+oss-audit-24BSA10342/
 ├── README.md
 ├── script1_system_identity.sh
 ├── script2_package_inspector.sh
@@ -81,8 +81,8 @@ oss-audit-[24BSA10342]/
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/[your-username]/oss-audit-[24BSA10342].git
-cd oss-audit-[24BSA10342]
+git clone https://github.com/[your-username]/oss-audit-24BSA10342.git
+cd oss-audit-24BSA10342
 ```
 
 ### Step 2 — Make All Scripts Executable
