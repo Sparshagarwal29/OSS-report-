@@ -81,7 +81,7 @@ oss-audit-24BSA10342/
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/[your-username]/oss-audit-24BSA10342.git
+git clone https://github.com/Sparshagarwal29/oss-audit-24BSA10342.git
 cd oss-audit-24BSA10342
 ```
 
